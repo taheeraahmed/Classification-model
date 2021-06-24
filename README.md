@@ -1,6 +1,6 @@
 # Classification-model with deep learning
 
-In this project I will use a dataset from Kaggle. The goal is to predict the survival rate of patients with heart failure from certain factors like age, anemia, diabetes.. 
+In this project I will use a dataset from Kaggle. The goal is to predict the survival rate of patients with heart failure from certain factors like age, anemia, diabetes and so on. 
 
 Cardiovascular diseases are the #1 cause of death globally, and it takes 17.9 million lives each year. This accounts for 31% percent of all deaths world wide!
 
